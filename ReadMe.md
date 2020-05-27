@@ -9,3 +9,9 @@ Step to setup Entity to ASP.NET
 ![](Demo/StartUp.png)
 + Add Connection String to the appsettings.json
 ![](Demo/AppSettings.png)
+
+/////////////////////////////
+
++This is how we make one to many relationship
+![](Demo/OneToManyRelationship.png)
+![](Demo/CommentClass.png)

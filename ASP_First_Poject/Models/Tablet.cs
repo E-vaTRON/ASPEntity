@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace ASP_First_Poject.Models
 {
-    public class Phone : Device
+    public class Tablet : Device
     {
         [Key]
-        public int PhoneID { get; set; }
+        public int TabletID { get; set; }
         public string CPU { get; set; }
         public string GPU { get; set; }
         public int Ram { get; set; }
